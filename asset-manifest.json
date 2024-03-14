@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.3665c195.chunk.css",
-    "main.js": "/static/js/main.242b0de1.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.3b8be361.js",
+    "main.js": "/static/js/main.88d5629a.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.d0dcf296.js",
     "static/css/2.8819ac78.chunk.css": "/static/css/2.8819ac78.chunk.css",
     "static/js/2.94bd26f1.chunk.js": "/static/js/2.94bd26f1.chunk.js",
     "static/js/3.90343db0.chunk.js": "/static/js/3.90343db0.chunk.js",
-    "static/js/4.d74a1f09.chunk.js": "/static/js/4.d74a1f09.chunk.js",
+    "static/js/4.3b637ed9.chunk.js": "/static/js/4.3b637ed9.chunk.js",
     "static/js/5.8069dc5c.chunk.js": "/static/js/5.8069dc5c.chunk.js",
-    "static/js/6.ec734401.chunk.js": "/static/js/6.ec734401.chunk.js",
-    "static/js/7.91e3ebf1.chunk.js": "/static/js/7.91e3ebf1.chunk.js",
-    "static/js/8.186679d2.chunk.js": "/static/js/8.186679d2.chunk.js",
-    "static/js/9.e99165c5.chunk.js": "/static/js/9.e99165c5.chunk.js",
+    "static/js/6.2256edff.chunk.js": "/static/js/6.2256edff.chunk.js",
+    "static/js/7.1a2df78b.chunk.js": "/static/js/7.1a2df78b.chunk.js",
+    "static/js/8.1a58492d.chunk.js": "/static/js/8.1a58492d.chunk.js",
+    "static/js/9.012dba74.chunk.js": "/static/js/9.012dba74.chunk.js",
     "static/js/10.af4f7ab1.chunk.js": "/static/js/10.af4f7ab1.chunk.js",
-    "static/js/11.f087b1dc.chunk.js": "/static/js/11.f087b1dc.chunk.js",
-    "static/js/12.b3906e49.chunk.js": "/static/js/12.b3906e49.chunk.js",
+    "static/js/11.6a77294f.chunk.js": "/static/js/11.6a77294f.chunk.js",
+    "static/js/12.df1b6aa6.chunk.js": "/static/js/12.df1b6aa6.chunk.js",
     "static/js/13.dcc82972.chunk.js": "/static/js/13.dcc82972.chunk.js",
     "static/js/14.429e94da.chunk.js": "/static/js/14.429e94da.chunk.js",
     "index.html": "/index.html",
@@ -238,7 +238,7 @@
     "static/media/logo_GMX.svg": "/static/media/logo_GMX.d5e943f0.svg",
     "static/media/logo_GMX_small.svg": "/static/media/logo_GMX_small.d5e943f0.svg",
     "static/media/long.svg": "/static/media/long.0bc4a064.svg",
-    "static/media/messages.po": "/static/media/messages.febd8b62.po",
+    "static/media/messages.po": "/static/media/messages.df803ad0.po",
     "static/media/metamask-text.svg": "/static/media/metamask-text.2f9c2df2.svg",
     "static/media/metamask.png": "/static/media/metamask.4b5d438a.png",
     "static/media/page-not-found.svg": "/static/media/page-not-found.2ff1b75f.svg",
@@ -250,10 +250,10 @@
     "static/media/Exchange.css": "/static/media/wave-01.3c9bce1e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b8be361.js",
+    "static/js/runtime-main.d0dcf296.js",
     "static/css/2.8819ac78.chunk.css",
     "static/js/2.94bd26f1.chunk.js",
     "static/css/main.3665c195.chunk.css",
-    "static/js/main.242b0de1.chunk.js"
+    "static/js/main.88d5629a.chunk.js"
   ]
 }
