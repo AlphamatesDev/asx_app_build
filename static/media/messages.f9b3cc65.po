@@ -1919,7 +1919,7 @@ msgid "ASX fundamentals"
 msgstr "ASXの基本"
 
 #: src/pages/Home/Home.js
-msgid "ASX is currently live on Arbitrum and Avalanche."
+msgid "ASX is currently live on Astar zkEVM."
 msgstr "ASXは現在ArbitrumとAvalancheで稼働中です。"
 
 #: src/pages/Jobs/Jobs.js
@@ -4508,7 +4508,7 @@ msgid "Trade on ASX and win <0>$250.000</0> in prizes! Live until November 30th,
 msgstr "ASXでトレードして賞金<0>250ドル</0>を獲得しよう! 11月30日まで。詳細は<1>ここをクリック</1> "
 
 #: src/components/Common/SEO.js
-msgid "Trade spot or perpetual BTC, ETH, ASTR and other top cryptocurrencies with up to 50x leverage directly from your wallet on Arbitrum and Avalanche."
+msgid "Trade spot or perpetual BTC, ETH, ASTR and other top cryptocurrencies with up to 50x leverage directly from your wallet on Astar zkEVM."
 msgstr ""
 
 #: src/pages/Referrals/Referrals.tsx
